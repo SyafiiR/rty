@@ -19,12 +19,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <div class="form-group">
+        <div class
           <p style="text-align: center; ">Facebook Access Token</p>
-          <div class="form-group">
-            <div class="input-group mb-3">
+          <div class
+            <div class
               <input type="text" class="form-control" aria-label="Facebook ID" id="email" placeholder="Enter Email">
-              <div class="input-group-append">
+              <div class
                 <span class="input-group-text "></span>
               </div>
             </div>
